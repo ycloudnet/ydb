@@ -1,5 +1,6 @@
 
 <h1 align='center'>延云千亿大数据实时解决方案</h1>
+<h2 align='center'><a href="https://github.com/ycloudnet/ydb/issues/1" target="_blank">网友提供的单机版QuickGetStart </a> </h2>
 
 <h2 align='center'><a href="https://github.com/ycloudnet/ydb/raw/master/doc/%E5%BB%B6%E4%BA%91%E5%A4%A7%E6%95%B0%E6%8D%AE.pdf" target="_blank">点击获取延云YDB介绍PPT </a> <a href="http://download.csdn.net/detail/qq_33160722/9310257" target="_blank"> (CSDN下载) </a></h2>
 <h2 align='center'> <a href="https://github.com/ycloudnet/ydb/raw/master/download/v1.0.1/ycloud.ydb-1.0.1-beta.zip" target="_blank">点击获取延云YDB软件 </a></h1>
